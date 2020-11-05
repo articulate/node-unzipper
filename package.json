@@ -1,9 +1,13 @@
 {
-  "name": "unzipper",
+  "name": "@articulate/node-unzipper",
   "version": "0.10.12",
   "description": "Unzip cross-platform streaming API ",
   "author": "Evan Oxfeld <eoxfeld@gmail.com>",
   "contributors": [
+    {
+      "name": "Erik Foberg",
+      "email": "erik@articulate.com"
+    },
     {
       "name": "Ziggy Jonsson",
       "email": "ziggy.jonsson.nyc@gmail.com"
@@ -19,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZJONSSON/node-unzipper.git"
+    "url": "https://github.com/articulate/node-unzipper.git"
   },
   "license": "MIT",
   "dependencies": {
